@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jorge-mauricio.github.io/resources-jbsl29/sitemap.xml
